@@ -12,3 +12,8 @@
 !upload
 !uploads
 !composer.json
+!artisan
+!index.php
+!package.json
+!webpack.mix.js
+!verification.php
