@@ -1,7 +1,7 @@
 {
     "version": 2,
     "functions": {
-        "api/index.php": { "runtime": "vercel-php@0.6.0", "excludeFiles": "{,*.cache,vendor/**,public/**,storage/**}/**", "memory": 3009,
+        "api/index.php": { "runtime": "vercel-php@0.6.0", "excludeFiles": "/*", "memory": 3009,
         "maxDuration": 30 }
     },
     "routes": [
